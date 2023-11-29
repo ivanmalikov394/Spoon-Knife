@@ -1,0 +1,8 @@
+.Home-tab-container {
+    border-radius: 18.6px;
+    background: #FFF;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    width: 765.408px;
+height: 150px;
+flex-shrink: 0;
+}
